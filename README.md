@@ -1,2 +1,2 @@
 # blazortailwind
-Using this template to create a Blazor + TailwindCSS
+Use this template to create a Blazor + TailwindCSS
